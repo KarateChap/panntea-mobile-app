@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "466024889714",
+    "firebase_url": "https://pannteaph-bcd71-default-rtdb.firebaseio.com",
+    "project_id": "pannteaph-bcd71",
+    "storage_bucket": "pannteaph-bcd71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466024889714:android:d92085df02e86dd122f1eb",
+        "android_client_info": {
+          "package_name": "com.panntea.mobile2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466024889714-g6r5lj5u249a4f0u2s9uqnagg8gun7t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panntea.mobile2021",
+            "certificate_hash": "cfc38ea998f2f62d91d94e163f8f093836a2cbda"
+          }
+        },
+        {
+          "client_id": "466024889714-fv5103hlrg4aqufmjm6es3vpcn3v10tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0UWwdjWf8QuA7xL_JBzd1P1afcqnvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466024889714-fv5103hlrg4aqufmjm6es3vpcn3v10tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466024889714:android:0f897e1f17050c2f22f1eb",
+        "android_client_info": {
+          "package_name": "com.pannteaph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466024889714-nv5shjro8s0t3uihsv04fu3qnomtflja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pannteaph",
+            "certificate_hash": "cfc38ea998f2f62d91d94e163f8f093836a2cbda"
+          }
+        },
+        {
+          "client_id": "466024889714-fv5103hlrg4aqufmjm6es3vpcn3v10tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0UWwdjWf8QuA7xL_JBzd1P1afcqnvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466024889714-fv5103hlrg4aqufmjm6es3vpcn3v10tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466024889714:android:783fee824440b23222f1eb",
+        "android_client_info": {
+          "package_name": "com.pannteaph.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466024889714-uinm69smt8uo9iuiibhh1aaes4do1hn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pannteaph.app",
+            "certificate_hash": "00612f66dfe27a84d37bc2b6390b57757ac2cb27"
+          }
+        },
+        {
+          "client_id": "466024889714-fv5103hlrg4aqufmjm6es3vpcn3v10tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0UWwdjWf8QuA7xL_JBzd1P1afcqnvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466024889714-fv5103hlrg4aqufmjm6es3vpcn3v10tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
